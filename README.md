@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://gitpod.io/#https://github.com/gear-dapps/app" target="_blank">
+  <a href="https://gitpod.io/#https://github.com/gear-dapps/fomo3D" target="_blank">
     <img src="https://gitpod.io/button/open-in-gitpod.svg" width="240" alt="Gitpod">
   </a>
 </p>
@@ -9,11 +9,11 @@
 [![Build][build_badge]][build_href]
 [![License][lic_badge]][lic_href]
 
-[build_badge]: https://github.com/gear-dapps/app/workflows/Build/badge.svg
-[build_href]: https://github.com/gear-dapps/app/actions/workflows/build.yml
+[build_badge]: https://github.com/gear-dapps/fomo3D/workflows/Build/badge.svg
+[build_href]: https://github.com/gear-dapps/fomo3D/actions/workflows/build.yml
 
 [lic_badge]: https://img.shields.io/badge/License-MIT-success
-[lic_href]: https://github.com/gear-dapps/app/blob/master/LICENSE
+[lic_href]: https://github.com/gear-dapps/fomo3D/blob/master/LICENSE
 
 <!-- Description starts here -->
 
@@ -25,8 +25,8 @@ Template application. Use this repository as a template when creating a new appl
 
 ## Initial checklist after creating a new repo
 
-- [ ] Change app name in `Cargo.toml`
-- [ ] Fix Gitpod/badge/releases links in `README.md` (replace `gear-dapps/app` with `gear-dapps/<my-new-app>`)
+- [x] Change app name in `Cargo.toml`
+- [x] Fix Gitpod/badge/releases links in `README.md` (replace `gear-dapps/app` with `gear-dapps/<my-new-app>`)
 - [ ] Add description in `README.md`
 - [ ] Fix dates, links, and initial commit hash in `CHANGELOG.md`
 - [ ] Remove this section
